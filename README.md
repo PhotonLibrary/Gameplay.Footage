@@ -1,2 +1,4 @@
 # Gameplay.Footage
-# Game: Doom channel:- https://www.youtube.com/@doompenguin7453
+# Game: Doom
+## channel:
+- https://www.youtube.com/@doompenguin7453
